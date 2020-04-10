@@ -1,0 +1,2 @@
+# android-color-my-views
+An pp that teaches the basics of Constraint Layouts in Android from Lesson 2 of the Udacity course on <a href="https://classroom.udacity.com/courses/ud9012">Developing Android Apps with Kotlin</a>.
